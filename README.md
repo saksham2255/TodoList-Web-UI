@@ -1,5 +1,8 @@
 # TodoList-Web-UI
-This UI is created by using only pure CSS and HTML.Its is not responsive.
+This UI is created by using only pure CSS and HTML.
+
+It is not responsive.
+
 The responsive design for the same will be uploaded soon!!
 
 Link to the website:
